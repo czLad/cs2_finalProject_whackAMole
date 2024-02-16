@@ -1,7 +1,7 @@
 ![Alt text](ezgif.com-video-to-gif-converter.gif) ![Alt text](20240215185358-ezgif.com-video-to-gif-converter.gif) 
 <p float="left">
-  <img src="/ezgif.com-video-to-gif-converter.gif" width="200" />
-  <img src="/20240215185358-ezgif.com-video-to-gif-converter.gif" width="200" /> 
+  <img src="/ezgif.com-video-to-gif-converter.gif" width="400" />
+  <img src="/20240215185358-ezgif.com-video-to-gif-converter.gif" width="400" /> 
 </p>
 # Work Report
 Whack A Mole
