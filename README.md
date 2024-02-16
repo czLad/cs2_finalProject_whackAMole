@@ -1,7 +1,7 @@
 ![Alt text](ezgif.com-video-to-gif-converter.gif) ![Alt text](20240215185358-ezgif.com-video-to-gif-converter.gif) 
 <p float="left">
-  <"Left"  width="400"/>
-  <"Right"  width="400"/> 
+  <src = "Left"  width="400"/>
+  <src ="Right"  width="400"/> 
 </p>
 <p float="left">
   <img src="/ezgif.com-video-to-gif-converter.gif" width="400" />
