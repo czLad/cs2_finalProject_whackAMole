@@ -1,5 +1,8 @@
 ![Alt text](ezgif.com-video-to-gif-converter.gif) ![Alt text](20240215185358-ezgif.com-video-to-gif-converter.gif) 
-
+<p float="left">
+  <img src="/ezgif.com-video-to-gif-converter.gif" width="100" />
+  <img src="/20240215185358-ezgif.com-video-to-gif-converter.gif" width="100" /> 
+</p>
 # Work Report
 Whack A Mole
 Gif of two scenarios for when the moles stop popping
