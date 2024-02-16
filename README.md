@@ -1,5 +1,6 @@
 ![Alt text](ezgif.com-video-to-gif-converter.gif) ![Alt text](20240215185358-ezgif.com-video-to-gif-converter.gif) 
-
+:-------------------------:|:-------------------------:
+![](https://ezgif.com-video-to-gif-converter.gif)  |  ![](20240215185358-ezgif.com-video-to-gif-converter.gif)
 
 # Work Report
 Whack A Mole
