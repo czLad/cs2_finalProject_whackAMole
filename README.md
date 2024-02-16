@@ -1,4 +1,5 @@
-![Alt text](ezgif.com-video-to-gif-converter.gif)
+![Alt text](ezgif.com-video-to-gif-converter.gif) ![Uploading ezgif.com-video-to-gif-converter.gif…]()
+
 # Work Report
 Whack A Mole
 Gif of two scenarios for when the moles stop popping
