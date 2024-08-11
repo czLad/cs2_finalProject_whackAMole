@@ -14,7 +14,7 @@ Two WAM gifs for two scenarios when moles stop popping
 <br><br>
 
 - Implemented:
-  - An intenal clock to stop the moles from popping at the ten second mark
+  - An internal clock to stop the moles from popping at the ten second mark
   - Ability to record a click during a split second that the mole is fully up
   - Ability to not record a click when a mole is not fully up or when one is fully down
 
